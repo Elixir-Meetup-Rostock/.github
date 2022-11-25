@@ -16,7 +16,7 @@
 * Optional: Stelle die Informationen mit TailwindCSS hübsch dar
 * Optional: Hoste das Projekt bei einem Hoster deiner Wahl (z.B. [fly.io](https://fly.io/))
 
-**Quellen**
+## Quellen
 * [Phoenix](https://hexdocs.pm/phoenix/Phoenix.html)
 * [HTTPoison](https://hexdocs.pm/httpoison/HTTPoison.html)
 * [Github API](https://docs.github.com/en/rest)
