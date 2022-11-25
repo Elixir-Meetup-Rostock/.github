@@ -1,6 +1,6 @@
 # Challenge 1 - Web Applikation mit Phoenix
 
-** Schwierigkeitsgrad:** Einfach
+**Schwierigkeitsgrad:** Einfach
 
 ## Lernziele
 * Aufsetzen eines Phoenix Projektes
