@@ -14,7 +14,7 @@ Hier findest du Informationen, nützliche Links und alles Weitere, was wir gerne
 
 ## 🗓️ Meetups
 
-Nächstes Meetup (voraussichtlich) am 2022-12-19
+Nächstes [Meetup am 2022-12-19](https://www.meetup.com/altow-academy/events/290042304)
 
 ### Letztes Meetup am 2022-12-05
 
