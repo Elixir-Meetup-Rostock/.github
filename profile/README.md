@@ -14,8 +14,12 @@ Hier findest du Informationen, nützliche Links und alles Weitere, was wir gerne
 
 ## 🗓️ Meetups
 
-Nächstes [Meetup am 2022-12-19](https://www.meetup.com/altow-academy/events/290042304)
+Nächstes [Meetup am 2023-01-02](https://www.meetup.com/altow-academy/events/290257222)
 
+### Letztes Meetup am 2022-12-19
+
+- Diemo hat Elixir mit sqlite/exqlite (mittels VScode Buildtools) unter Windows eingerichtet und uns seine Vortschritte beim XML-Parsing gezeigt
+- gemeinsam haben wir mit [AoC](https://adventofcode.com) begonnen
 
 ### Vergangene Meetups
 
