@@ -14,16 +14,16 @@ Hier findest du Informationen, nützliche Links und alles Weitere, was wir gerne
 
 ## 🗓️ Meetups
 
-Nächstes [Meetup am 2023-01-02](https://www.meetup.com/altow-academy/events/290257222)
+Nächstes Meetup am 2023-02-27
 
-### Letztes Meetup am 2022-12-19
+### Letztes Meetup am 2023-02-13
 
-- Diemo hat Elixir mit sqlite/exqlite (mittels VScode Buildtools) unter Windows eingerichtet und uns seine Vortschritte beim XML-Parsing gezeigt
-- gemeinsam haben wir mit [AoC](https://adventofcode.com) begonnen
+- [Noah.](https://github.com/NoahLeu) gab uns eine Einführung zum [Surface UI Framework](../meetups/surface_ui.md)
+- zudem sprachen wir über LiveView und Components
 
 ### Vergangene Meetups
 
-[2022-12-05](../meetups/2022-12-05.md) / [2022-11-21](../meetups/2022-11-21.md) / [2022-11-07](../meetups/2022-11-07.md) / [2022-10-24](../meetups/2022-10-24.md)
+[2022-12-19](../meetups/2022-12-19.md) / [2022-12-05](../meetups/2022-12-05.md) / [2022-11-21](../meetups/2022-11-21.md) / [2022-11-07](../meetups/2022-11-07.md) / [2022-10-24](../meetups/2022-10-24.md)
 
 ## 🗃️ Code-Snippets
 
